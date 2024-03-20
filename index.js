@@ -1,1 +1,1 @@
-var databaseResponse = await fetch ('/user'){}
+var databaseResponse = await fetch ('/user'){(req,res)}
